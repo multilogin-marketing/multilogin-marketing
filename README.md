@@ -2,7 +2,7 @@
 
 ![No coding required](https://img.shields.io/badge/No_coding-required-success)
 ![Beginner friendly](https://img.shields.io/badge/Beginner-friendly-brightgreen)
-![Setup time](https://img.shields.io/badge/Setup-5_minutes-blue)
+![Setup time](https://img.shields.io/badge/Setup-3_minutes-blue)
 ![Windows](https://img.shields.io/badge/Windows-supported-0078D4?logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-supported-000000?logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-supported-FCC624?logo=linux&logoColor=black)

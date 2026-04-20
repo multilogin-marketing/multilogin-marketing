@@ -693,6 +693,10 @@ Not sure where to start? These guides walk you through real-world Multilogin wor
 
 Multilogin works best when you have:
 
-- **A stable internet connection** — cloud phones stream over the internet, so a solid connection makes a real difference.
-- **A bit of time to get familiar** — if you have never used cloud phones before, give yourself a short adjustment period. The interface is beginner-friendly and does not require technical skills, but like any new tool, there is a short ramp-up.
-- **Some setup time for large workflows** — if you plan to manage hundreds of accounts, a bit of upfront organization pays off. The 24/7 support team in 5 languages is there to help you at any stage.
+- 📶 **A stable internet connection** — cloud phones stream over the internet, so a solid connection makes a real difference.
+- 🕐 **A bit of time to get familiar** — if you have never used cloud phones before, give yourself a short adjustment period. The interface is beginner-friendly and does not require technical skills, but like any new tool, there is a short ramp-up.
+- 🗂️ **Some setup time for large workflows** — if you plan to manage hundreds of accounts, a bit of upfront organization pays off. The 24/7 support team in 5 languages is there to help you at any stage.
+
+Ready to try it? Multilogin offers a 3-day trial for €1.99 — includes 5 profiles, 200 MB of residential proxy traffic, and 60 mobile minutes. No commitment, no surprises.
+
+👉 [Start your trial at multilogin.com](https://multilogin.com/pricing/)

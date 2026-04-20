@@ -1,16 +1,22 @@
 # Multilogin Review 2026: Android Cloud Phones and Browser Profiles for Multi-Account Management
 
-![Android](https://img.shields.io/badge/Android-10--15-3DDC84?logo=android&logoColor=white)
+![No coding required](https://img.shields.io/badge/No_coding-required-success)
+![Beginner friendly](https://img.shields.io/badge/Beginner-friendly-brightgreen)
+![Setup time](https://img.shields.io/badge/Setup-5_minutes-blue)
+
 ![Windows](https://img.shields.io/badge/Windows-supported-0078D4?logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-supported-000000?logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-supported-FCC624?logo=linux&logoColor=black)
+
+
 ![TikTok](https://img.shields.io/badge/TikTok-supported-000000?logo=tiktok&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-supported-E4405F?logo=instagram&logoColor=white)
 ![Facebook](https://img.shields.io/badge/Facebook-supported-1877F2?logo=facebook&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-supported-FF0000?logo=youtube&logoColor=white)
 ![Reddit](https://img.shields.io/badge/Reddit-supported-FF4500?logo=reddit&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-supported-43B02A?logo=selenium&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-supported-40B5A4?logo=puppeteer&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-supported-0A66C2?logo=linkedin&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-supported-26A5E4?logo=telegram&logoColor=white)
+![Google](https://img.shields.io/badge/Google-supported-4285F4?logo=google&logoColor=white)
 
 > Multilogin is an all-in-one platform for social media managers and creators who run multiple accounts from one dashboard.
 

@@ -14,7 +14,9 @@ Each mobile account runs in its own Android cloud phone. Each web account runs i
 
 Whether you manage five accounts or five hundred, Multilogin keeps it all simple, organized, and easy to scale.
 
-> 📚 [Visit the Multilogin Wiki](https://github.com/multilogin-marketing/multilogin-marketing/wiki) — guides, use cases, academy, and glossary.
+> 📚 [Visit the Multilogin Wiki](https://github.com/multilogin-marketing/multilogin-marketing/wiki) — guides, use cases, academy, and glossary
+
+> 📊 [Multilogin Pricing 2026](https://github.com/multilogin-marketing/multilogin-pricing) — complete overview of all pricing plans
 
 ![Multilogin dashboard — cloud phones and browser profiles in one place](https://multilogin.com/wp-content/uploads/2026/04/SMM-new-dash1.webp)
 

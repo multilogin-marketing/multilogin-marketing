@@ -422,46 +422,46 @@ Uber Driver, Lyft Driver, and DoorDash Driver all offer new-driver signup guaran
 Multilogin cloud phones provide a unique IMEI and Android ID per account, with proxy geolocation matched to the target city. Each registration originates from what looks like a brand-new device in the right location.
 
 ## Pricing
-
 Every Multilogin plan includes full access to both browser profiles and Android cloud phones from day one. Proxy traffic and mobile minutes are bundled into your subscription every month. Once you go over your included allowance, transparent pay-as-you-go rates kick in — no surprises, no hidden fees.
  
 | Add-on | Rate | Notes |
 |---|---|---|
-| Proxy Traffic | €3 per 1 GB | Premium residential proxies. Unused traffic rolls over. |
-| Mobile Minutes | €0.0075 per minute | Pay only for time used. Unused minutes roll over. |
+| Proxy Traffic | $3 per 1 GB | Premium residential proxies. Unused traffic rolls over. |
+| Mobile Minutes | $0.0075 per minute | Pay only for time used. Unused minutes roll over. |
  
-> Cloud phones are billed separately at **€0.0075 per minute**. The timer starts when you launch the device and stops when you press Stop.
+> Cloud phones are billed separately at **$0.0075 per minute**. The timer starts when you launch the device and stops when you press Stop.
  
 ### Pro Plans
  
 | Plan | Profiles | Proxy Traffic | Mobile Minutes | API Access | Team Seats | Annual (per month) | Monthly |
 |---|---|---|---|---|---|---|---|
-| **Trial** (3 days) | 5 | 200 MB (one-time) | 60 (one-time) | ✓ | — | €1.99 | €1.99 |
-| **Pro 10** | 10 | 1 GB/month | 60/month | RPM 50 | — | €5.85/mo *(€70.20/yr)* | €9/mo |
-| **Pro 50** | 50 | 3 GB/month | 75/month | RPM 100 | — | €16.25/mo *(€195/yr)* | €25/mo |
-| **Pro 100** | 100 | 5 GB/month | 150/month | RPM 100 | 2 seats | €22.75/mo *(€273/yr)* | €35/mo |
-| **Business 300** | 300 | 10 GB/month | 450/month | RPM 100 | Unlimited | €48.75/mo *(€585/yr)* | €75/mo |
-| **Business 500** | 500 | 10 GB/month | 750/month | RPM 100 | Unlimited | €64.67/mo *(€776/yr)* | €99/mo |
-| **Business 700** | 700 | 10 GB/month | 1,050/month | RPM 100 | Unlimited | €84.17/mo *(€1,010/yr)* | €129/mo |
-| **Business 1000** | 1,000 | 10 GB/month | 1,500/month | RPM 100 | Unlimited | €103/mo *(€1,244/yr)* | €159/mo |
-| **Business 1500** | 1,500 | 10 GB/month | 2,250/month | RPM 100 | Unlimited | €129/mo *(€1,556/yr)* | €199/mo |
-| **Business 2000** | 2,000 | 10 GB/month | 3,000/month | RPM 100 | Unlimited | €155/mo *(€1,868/yr)* | €239/mo |
-| **Business 2500** | 2,500 | 10 GB/month | 3,750/month | RPM 100 | Unlimited | €181.67/mo *(€2,180/yr)* | €279/mo |
-| **Business 3000** | 3,000 | 10 GB/month | 4,500/month | RPM 100 | Unlimited | €207.67/mo *(€2,492/yr)* | €319/mo |
-| **Business 3500** | 3,500 | 10 GB/month | 5,250/month | RPM 100 | Unlimited | €232/mo *(€2,784/yr)* | €357/mo |
-| **Business 4000** | 4,000 | 10 GB/month | 6,000/month | RPM 100 | Unlimited | €256.42/mo *(€3,077/yr)* | €394/mo |
-| **Business 4500** | 4,500 | 10 GB/month | 6,750/month | RPM 100 | Unlimited | €280.75/mo *(€3,369/yr)* | €432/mo |
-| **Business 5000** | 5,000 | 10 GB/month | 7,500/month | RPM 100 | Unlimited | €305.17/mo *(€3,662/yr)* | €469/mo |
-| **Business 5500** | 5,500 | 10 GB/month | 8,250/month | RPM 100 | Unlimited | €324.67/mo *(€3,896/yr)* | €499/mo |
-| **Business 6000** | 6,000 | 10 GB/month | 9,000/month | RPM 100 | Unlimited | €344.17/mo *(€4,130/yr)* | €529/mo |
-| **Business 6500** | 6,500 | 10 GB/month | 9,750/month | RPM 100 | Unlimited | €363.67/mo *(€4,364/yr)* | €559/mo |
-| **Business 7000** | 7,000 | 10 GB/month | 10,500/month | RPM 100 | Unlimited | €383.17/mo *(€4,598/yr)* | €589/mo |
-| **Business 7500** | 7,500 | 10 GB/month | 11,250/month | RPM 100 | Unlimited | €401/mo *(€4,812/yr)* | €617/mo |
-| **Business 8000** | 8,000 | 10 GB/month | 12,000/month | RPM 100 | Unlimited | €418.92/mo *(€5,027/yr)* | €644/mo |
-| **Business 8500** | 8,500 | 10 GB/month | 12,750/month | RPM 100 | Unlimited | €436.75/mo *(€5,241/yr)* | €672/mo |
-| **Business 9000** | 9,000 | 10 GB/month | 13,500/month | RPM 100 | Unlimited | €454.67/mo *(€5,456/yr)* | €699/mo |
-| **Business 9500** | 9,500 | 10 GB/month | 14,250/month | RPM 100 | Unlimited | €472.50/mo *(€5,670/yr)* | €727/mo |
-| **Business 10000** | 10,000 | 10 GB/month | 15,000/month | RPM 100 | Unlimited | €490/mo *(€5,885/yr)* | €754/mo |
+| **Trial** (3 days) | 5 | 200 MB (one-time) | 60 (one-time) | ✓ | — | $2 | $2 |
+| **Pro 10** | 10 | 1 GB/month | 60/month | RPM 50 | — | $7.08/mo *($85/yr)* | $11/mo |
+| **Pro 50** | 50 | 3 GB/month | 75/month | RPM 100 | — | $19.17/mo *($230/yr)* | $29/mo |
+| **Pro 100** | 100 | 5 GB/month | 150/month | RPM 100 | 2 seats | $26.67/mo *($320/yr)* | $40/mo |
+| **Business 300** | 300 | 10 GB/month | 450/month | RPM 100 | Unlimited | $57.08/mo *($685/yr)* | $89/mo |
+| **Business 500** | 500 | 10 GB/month | 750/month | RPM 100 | Unlimited | $75.83/mo *($910/yr)* | $115/mo |
+| **Business 700** | 700 | 10 GB/month | 1,050/month | RPM 100 | Unlimited | $98.33/mo *($1,180/yr)* | $150/mo |
+| **Business 1000** | 1,000 | 10 GB/month | 1,500/month | RPM 100 | Unlimited | $121.25/mo *($1,455/yr)* | $185/mo |
+| **Business 1500** | 1,500 | 10 GB/month | 2,250/month | RPM 100 | Unlimited | $151.67/mo *($1,820/yr)* | $230/mo |
+| **Business 2000** | 2,000 | 10 GB/month | 3,000/month | RPM 100 | Unlimited | $182.08/mo *($2,185/yr)* | $280/mo |
+| **Business 2500** | 2,500 | 10 GB/month | 3,750/month | RPM 100 | Unlimited | $212.50/mo *($2,550/yr)* | $329/mo |
+| **Business 3000** | 3,000 | 10 GB/month | 4,500/month | RPM 100 | Unlimited | $242.92/mo *($2,915/yr)* | $370/mo |
+| **Business 3500** | 3,500 | 10 GB/month | 5,250/month | RPM 100 | Unlimited | $271.25/mo *($3,255/yr)* | $419/mo |
+| **Business 4000** | 4,000 | 10 GB/month | 6,000/month | RPM 100 | Unlimited | $300/mo *($3,600/yr)* | $460/mo |
+| **Business 4500** | 4,500 | 10 GB/month | 6,750/month | RPM 100 | Unlimited | $329.17/mo *($3,950/yr)* | $500/mo |
+| **Business 5000** | 5,000 | 10 GB/month | 7,500/month | RPM 100 | Unlimited | $357.08/mo *($4,285/yr)* | $550/mo |
+| **Business 5500** | 5,500 | 10 GB/month | 8,250/month | RPM 100 | Unlimited | $380/mo *($4,560/yr)* | $600/mo |
+| **Business 6000** | 6,000 | 10 GB/month | 9,000/month | RPM 100 | Unlimited | $402.92/mo *($4,835/yr)* | $600/mo |
+| **Business 6500** | 6,500 | 10 GB/month | 9,750/month | RPM 100 | Unlimited | $425.42/mo *($5,105/yr)* | $650/mo |
+| **Business 7000** | 7,000 | 10 GB/month | 10,500/month | RPM 100 | Unlimited | $448.33/mo *($5,380/yr)* | $700/mo |
+| **Business 7500** | 7,500 | 10 GB/month | 11,250/month | RPM 100 | Unlimited | $469.17/mo *($5,630/yr)* | $700/mo |
+| **Business 8000** | 8,000 | 10 GB/month | 12,000/month | RPM 100 | Unlimited | $490/mo *($5,880/yr)* | $750/mo |
+| **Business 8500** | 8,500 | 10 GB/month | 12,750/month | RPM 100 | Unlimited | $510.83/mo *($6,130/yr)* | $800/mo |
+| **Business 9000** | 9,000 | 10 GB/month | 13,500/month | RPM 100 | Unlimited | $532.08/mo *($6,385/yr)* | $800/mo |
+| **Business 9500** | 9,500 | 10 GB/month | 14,250/month | RPM 100 | Unlimited | $552.92/mo *($6,635/yr)* | $850/mo |
+| **Business 10000** | 10,000 | 10 GB/month | 15,000/month | RPM 100 | Unlimited | $573.75/mo *($6,885/yr)* | $900/mo |
+
  
 **All Pro plans include:**
 - Cloud mobile and browser profiles
@@ -477,7 +477,7 @@ Every Multilogin plan includes full access to both browser profiles and Android 
 - Advanced team management
 - Unlimited team seats
  
-[Current pricing as of April 2026](https://multilogin.com/pricing/)
+[Current pricing as of May 2026 in USD](https://multilogin.com/pricing/)
 
 ---
 

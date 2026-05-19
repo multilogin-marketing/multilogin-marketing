@@ -555,7 +555,7 @@ Multilogin starts at $7.08 per month when billed annually. This includes 1 GB of
 <details>
 <summary><strong>Does Multilogin offer a trial?</strong></summary>
 
-Yes. A 3-day trial is available for €1.99. It includes 5 browser or mobile profiles, 200 MB of residential proxy traffic, and 60 mobile minutes.
+Yes. A 3-day trial is available for $2. It includes 5 browser or mobile profiles, 200 MB of residential proxy traffic, and 60 mobile minutes.
 
 </details>
 

@@ -526,7 +526,7 @@ Android emulators run in simulated environments and do not offer real device-lev
 <details>
 <summary><strong>How are cloud phones billed?</strong></summary>
 
-Cloud phones are billed at **€0.0075 per minute**. Minutes work as credits — the timer starts when you launch the device and stops when you press Stop. Larger minute packages come with bigger discounts. Unused minutes roll over with an active subscription.
+Cloud phones are billed at **$0.0075 per minute**. Minutes work as credits — the timer starts when you launch the device and stops when you press Stop. Larger minute packages come with bigger discounts. Unused minutes roll over with an active subscription.
 
 </details>
 
@@ -535,11 +535,11 @@ Cloud phones are billed at **€0.0075 per minute**. Minutes work as credits —
 
 Multilogin offers a Trial, three Pro plans, and Business plans:
 
-- **Trial:** €1.99 for 3 days — 5 profiles, 200 MB proxy traffic, 60 mobile minutes
-- **Pro 10:** from €5.85/mo — 10 profiles, 1 GB proxy traffic, 60 mobile minutes
-- **Pro 50:** from €16.25/mo — 50 profiles, 3 GB proxy traffic, 75 mobile minutes
-- **Pro 100:** from €22.75/mo — 100 profiles, 5 GB proxy traffic, 150 mobile minutes
-- **Business:** from €48.75/mo — 300 to 10,000 profiles, unlimited team seats, custom API rate limits
+- **Trial:** $2 for 3 days: 5 profiles, 200 MB proxy traffic, 60 mobile minutes
+- **Pro 10:** from $7.08/mo: 10 profiles, 1 GB proxy traffic, 60 mobile minutes
+- **Pro 50:** from $19.17/mo: 50 profiles, 3 GB proxy traffic, 75 mobile minutes
+- **Pro 100:** from $26.67/mo: 100 profiles, 5 GB proxy traffic, 150 mobile minutes
+- **Business:** from $57.08/mo: 300 to 10,000 profiles, unlimited team seats, custom API rate limits
 
 All Pro and Business plans include cloud mobile and browser profiles, built-in proxies, and API access.
 
@@ -548,7 +548,7 @@ All Pro and Business plans include cloud mobile and browser profiles, built-in p
 <details>
 <summary><strong>How much does Multilogin cost?</strong></summary>
 
-Multilogin starts at **€5.85 per month** when billed annually. This includes 1 GB of residential proxy traffic and 60 mobile minutes per month. Business plans scale up to 10,000 profiles and include unlimited team seats.
+Multilogin starts at $7.08 per month when billed annually. This includes 1 GB of residential proxy traffic and 60 mobile minutes per month. Business plans scale up to 10,000 profiles and include unlimited team seats.
 
 </details>
 
@@ -708,6 +708,6 @@ Multilogin works best when you have:
 - 🕐 **A bit of time to get familiar** — if you have never used cloud phones before, give yourself a short adjustment period. The interface is beginner-friendly and does not require technical skills, but like any new tool, there is a short ramp-up.
 - 🗂️ **Some setup time for large workflows** — if you plan to manage hundreds of accounts, a bit of upfront organization pays off. The 24/7 support team in 5 languages is there to help you at any stage.
 
-Ready to try it? Multilogin offers a 3-day trial for €1.99 — includes 5 profiles, 200 MB of residential proxy traffic, and 60 mobile minutes. No commitment, no surprises.
+Ready to try it? Multilogin offers a 3-day trial for $2 — includes 5 profiles, 200 MB of residential proxy traffic, and 60 mobile minutes. No commitment, no surprises.
 
 👉 [Start your trial at multilogin.com](https://multilogin.com/pricing/)

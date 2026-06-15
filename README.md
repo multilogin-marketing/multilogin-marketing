@@ -418,7 +418,7 @@ Every Multilogin plan includes full access to both browser profiles and Android 
 - Quick cloning and bulk operations
 - Premium proxy add-on and monthly bonus
 - Automation-friendly API access
-- 2 team seats
+- only Pro 100 includes team seats (2 seats). Pro 10 and Pro 50 have no team seats.
  
 **All Business plans include:**
 - All Pro features unlocked

@@ -176,7 +176,6 @@ Full integration with:
 - Two-factor authentication (2FA)
 - Local or cloud data storage — your choice
 - GDPR compliant
-- Advanced antidetect technology for browser profiles
 
 ---
 
@@ -591,7 +590,7 @@ Yes. You earn a lifetime reward of 10 Multipoints for every friend who subscribe
 
 Other cloud phone platforms include GeeLark, DuoPlus, VMOS Cloud, BitCloudPhone, Redfinger, LDCloud, and MoreLogin Cloud.
 
-What sets Multilogin apart: real Android hardware with genuine device identifiers (IMEI, Android ID, MAC), combined with a leading antidetect browser in one unified dashboard. Most alternatives focus only on mobile or require separate tools for web workflows.
+What sets Multilogin apart: real Android hardware with genuine device identifiers (IMEI, Android ID, MAC), combined with a leading multi-account browser in one unified dashboard. Most alternatives focus only on mobile or require separate tools for web workflows.
 
 </details>
 

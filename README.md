@@ -327,7 +327,7 @@ Whether you manage 5 accounts or 500, the dashboard stays clean and organized.
 
 Phone farming — earning rewards by running apps across multiple devices — gets expensive fast when you buy physical hardware. Each phone needs its own SIM, charger, and space on your desk.
 
-Multilogin cloud phones eliminate the hardware cost entirely. Each cloud phone is billed at **$0.0075 per minute**. You start the timer when you launch the device and stop it when you are done. Minutes work as credits, and larger minute packages come with bigger discounts. Unused minutes roll over with an active subscription.
+Multilogin cloud phones eliminate the hardware cost entirely. Each cloud phone is billed at **$0.011 per minute**. You start the timer when you launch the device and stop it when you are done. Minutes work as credits, and larger minute packages come with bigger discounts. Unused minutes roll over with an active subscription.
 
 [Phone Farming Use Case](https://multilogin.com/mobile/phone-farming/)
 
@@ -377,9 +377,9 @@ Every Multilogin plan includes full access to both browser profiles and Android 
 | Add-on | Rate | Notes |
 |---|---|---|
 | Proxy Traffic | $3 per 1 GB | Premium residential proxies. Unused traffic rolls over. |
-| Mobile Minutes | $0.0075 per minute | Pay only for time used. Unused minutes roll over. |
+| Mobile Minutes | $0.011 per minute | Pay only for time used. Unused minutes roll over. |
  
-> Cloud phones are billed separately at **$0.0075 per minute**. The timer starts when you launch the device and stops when you press Stop.
+> Cloud phones are billed separately at **$0.011 per minute**. The timer starts when you launch the device and stops when you press Stop.
  
 ### Pro Plans
  
@@ -476,7 +476,7 @@ Android emulators run in simulated environments and do not offer real device-lev
 <details>
 <summary><strong>How are cloud phones billed?</strong></summary>
 
-Cloud phones are billed at **$0.0075 per minute**. Minutes work as credits — the timer starts when you launch the device and stops when you press Stop. Larger minute packages come with bigger discounts. Unused minutes roll over with an active subscription.
+Cloud phones are billed at **$0.011 per minute**. Minutes work as credits — the timer starts when you launch the device and stops when you press Stop. Larger minute packages come with bigger discounts. Unused minutes roll over with an active subscription.
 
 </details>
 

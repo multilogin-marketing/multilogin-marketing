@@ -242,17 +242,6 @@ Multilogin gives each Google My Business profile its own isolated browser with a
 
 ---
 
-### How Ticket Brokers Buy at Scale Without Getting Blocked
-
-Ticketing platforms rate-limit and block users who make too many requests from the same device or IP. Ticket brokers competing for high-demand inventory lose 
-out the moment their fingerprint gets flagged.
-
-Multilogin gives each ticket-buying session its own browser profile with a unique fingerprint and a separate residential proxy. Every checkout looks like a different user to the platform. Run multiple flows at the same time from one desktop and automate them with Selenium, Puppeteer, or Playwright.
-
-[Ticket Scalping](https://multilogin.com/web-automation/automate-ticket-scalping/)
-
----
-
 ### How SMM Agencies Manage Client Accounts Without Sharing Passwords
 
 Agencies with five people managing 50 client accounts across Instagram, Facebook, Twitter, and LinkedIn face a constant problem: sharing login credentials over Slack, getting locked out after 2FA, and having platforms flag the account when someone logs in from a new location.
@@ -597,13 +586,6 @@ Yes. Each browser profile runs in an isolated environment with unique fingerprin
 <summary><strong>Can I automate workflows with Multilogin?</strong></summary>
 
 Yes. Multilogin supports full integration with Selenium, Puppeteer, Playwright, and Postman. The Multilogin API lets you automate cloud phone creation, app installation, and account management. Automation token access is available from the Pro 10 plan and above.
-
-</details>
-
-<details>
-<summary><strong>What are cloud phones in an antidetect browser?</strong></summary>
-
-Cloud phones are Android devices hosted in the cloud, designed to run apps like TikTok, Instagram, and Reddit. Each phone keeps its own apps, login sessions, and persistent app data. Browser profiles are Chromium-based with unique fingerprints, built for web-based workflows. Both live in the same Multilogin dashboard.
 
 </details>
 

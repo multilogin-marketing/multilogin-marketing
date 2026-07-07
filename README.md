@@ -327,7 +327,7 @@ Whether you manage 5 accounts or 500, the dashboard stays clean and organized.
 
 Phone farming — earning rewards by running apps across multiple devices — gets expensive fast when you buy physical hardware. Each phone needs its own SIM, charger, and space on your desk.
 
-Multilogin cloud phones eliminate the hardware cost entirely. Each cloud phone is billed at **$0.0073 per minute**. You start the timer when you launch the device and stop it when you are done. Minutes work as credits, and larger minute packages come with bigger discounts. Unused minutes roll over with an active subscription.
+Multilogin cloud phones eliminate the hardware cost entirely. Each cloud phone is billed at **$0.011 per minute**. You start the timer when you launch the device and stop it when you are done. Minutes work as credits, and larger minute packages come with bigger discounts. Unused minutes roll over with an active subscription.
 
 [Phone Farming Use Case](https://multilogin.com/mobile/phone-farming/)
 

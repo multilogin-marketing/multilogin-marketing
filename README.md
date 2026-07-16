@@ -16,7 +16,7 @@ Whether you manage five accounts or five hundred, Multilogin keeps it all simple
 
 > 📚 [Visit the Multilogin Wiki](https://github.com/multilogin-marketing/multilogin-marketing/wiki): guides, use cases, academy, and glossary
 
-> 📊 [Multilogin Pricing — May 2026](https://github.com/multilogin-marketing/multilogin-pricing): complete overview of all pricing plans
+> 📊 [Multilogin Pricing — July 2026](https://github.com/multilogin-marketing/multilogin-pricing): complete overview of all pricing plans
 
 ![Multilogin dashboard — cloud phones and browser profiles in one place](https://multilogin.com/wp-content/uploads/2026/04/SMM-new-dash1.webp)
 
@@ -79,7 +79,7 @@ When you launch a cloud phone, it comes with:
 - **File import and export** — move files between your cloud phone and your local device anytime, in both directions
 - **Keyboard input** — type directly from your computer keyboard inside the cloud phone, no extra setup needed
 
-You pick the Android version (10 through 15), choose a device brand and model, assign a proxy, and launch. The app platform sees it as a completely separate physical device.
+You pick the Android version (10 through 16), choose a device brand and model, assign a proxy, and launch. The app platform sees it as a completely separate physical device.
 
 ### Web Accounts: Browser Profiles
 
@@ -119,7 +119,7 @@ Each cloud phone includes:
 - Keyboard input — type directly from your computer keyboard, no extra setup needed
 - File import and export — move files to and from your cloud phone anytime
 
-**Supported Android versions:** 10, 11, 12, 13, 14, 15
+**Supported Android versions:** 10, 11, 12, 13, 14, 15, 16
 
 **Supported device brands:**
 
@@ -385,7 +385,7 @@ Every Multilogin plan includes full access to both browser profiles and Android 
  
 | Plan | Profiles | Proxy Traffic | Mobile Minutes | API Access | Team Seats | Annual (per month) | Monthly |
 |---|---|---|---|---|---|---|---|
-| **Trial** (3 days) | 5 | 200 MB (one-time) | 60 (one-time) | ✓ | — | $2 | $2 |
+| **Free** | up to 5 (max 1 mobile) | 200 MB (one-time) | 30 (one-time) | ✓ | — | $0, no time limit | $0, no time limit |
 | **Pro 10** | 10 | 1 GB/month | 60/month | RPM 50 | — | $7.08/mo *($85/yr)* | $11/mo |
 | **Pro 50** | 50 | 3 GB/month | 75/month | RPM 100 | — | $19.17/mo *($230/yr)* | $29/mo |
 | **Pro 100** | 100 | 5 GB/month | 150/month | RPM 100 | 2 seats | $26.67/mo *($320/yr)* | $40/mo |
@@ -413,13 +413,15 @@ Every Multilogin plan includes full access to both browser profiles and Android 
 | **Business 10000** | 10,000 | 10 GB/month | 15,000/month | RPM 100 | Unlimited | $573.75/mo *($6,885/yr)* | $900/mo |
 
  
+The Free plan has no monthly or annual option: it's free with no time limit, so there's no billing cycle to compare. 
+ 
 **All Pro plans include:**
-- Cloud mobile and browser profiles
+- Cloud phones and browser profiles
 - Quick cloning and bulk operations
 - Premium proxy add-on and monthly bonus
 - Automation-friendly API access
-- only Pro 100 includes 2 team seats. Pro 10 and Pro 50 have no team seats.
- 
+- Only Pro 100 includes 2 team seats; Pro 10 and Pro 50 have no team seats
+  
 **All Business plans include:**
 - All Pro features unlocked
 - API access with custom rate limits
@@ -427,7 +429,7 @@ Every Multilogin plan includes full access to both browser profiles and Android 
 - Advanced team management
 - Unlimited team seats
  
-[Current pricing as of May 2026 in USD](https://multilogin.com/pricing/)
+[Current pricing as of July 2026 in USD](https://multilogin.com/pricing/)
 
 ---
 

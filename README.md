@@ -327,7 +327,7 @@ Whether you manage 5 accounts or 500, the dashboard stays clean and organized.
 
 Phone farming — earning rewards by running apps across multiple devices — gets expensive fast when you buy physical hardware. Each phone needs its own SIM, charger, and space on your desk.
 
-Multilogin cloud phones eliminate the hardware cost entirely. Cloud phone minutes are billed from **$0.0073 to $0.009** per minute depending on package size.. You start the timer when you launch the device and stop it when you are done. Minutes work as credits, and larger minute packages come with bigger discounts. Unused minutes roll over with an active subscription.
+Multilogin cloud phones eliminate the hardware cost entirely. Cloud phone minutes are billed from **$0.0073 to $0.009** per minute depending on package size. You start the timer when you launch the device and stop it when you are done. Minutes work as credits, and larger minute packages come with bigger discounts. Unused minutes roll over with an active subscription.
 
 [Phone Farming Use Case](https://multilogin.com/mobile/phone-farming/)
 
@@ -385,7 +385,7 @@ Every Multilogin plan includes full access to both browser profiles and Android 
  
 | Plan | Profiles | Proxy Traffic | Mobile Minutes | API Access | Team Seats | Annual (per month) | Monthly |
 |---|---|---|---|---|---|---|---|
-| **Free** | up to 5 (max 1 mobile) | 200 MB (one-time) | 30 (one-time) | ✓ | — | $0, no time limit | $0, no time limit |
+| **Free** | up to 5 (max 1 mobile) | 200 MB (one-time) | 30 (one-time) | — | — | $0, no time limit | $0, no time limit |
 | **Pro 10** | 10 | 1 GB/month | 60/month | RPM 50 | — | $7.08/mo *($85/yr)* | $11/mo |
 | **Pro 50** | 50 | 3 GB/month | 75/month | RPM 100 | — | $19.17/mo *($230/yr)* | $29/mo |
 | **Pro 100** | 100 | 5 GB/month | 150/month | RPM 100 | 2 seats | $26.67/mo *($320/yr)* | $40/mo |
@@ -483,7 +483,7 @@ Cloud phone minutes cost from $0.0073 to $0.009 per minute, depending on package
 <details>
 <summary><strong>What plans does Multilogin offer?</strong></summary>
 
-Multilogin offers a Trial, three Pro plans, and Business plans:
+Multilogin offers a Free plan, three Pro plans, and Business plans:
 
 - **Free:** $0, no time limit: up to 5 profiles (max 1 mobile), 200 MB proxy traffic (one-time), 30 mobile minutes (one-time)
 - **Pro 10:** from $7.08/mo: 10 profiles, 1 GB proxy traffic, 60 mobile minutes
@@ -661,4 +661,4 @@ Multilogin works best when you have:
 
 Ready to try it? Multilogin offers a Free plan with no time limit. Get up to 5 profiles, 200 MB of proxy traffic, and 30 mobile minutes to start. No commitment, no credit card.
 
-👉 [Start your trial at multilogin.com](https://multilogin.com/pricing/)
+👉 [Start for free at multilogin.com](https://multilogin.com/pricing/)

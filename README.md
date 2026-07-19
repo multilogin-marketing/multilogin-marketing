@@ -108,7 +108,7 @@ You manage both from the same desktop app, available for **Windows, macOS, and L
 
 ### Real Android Cloud Phones
 
-Multilogin is **not an Android emulator**. Cloud phones run on real Android hardware (versions 10–15) with genuine device identifiers. Android emulators run in simulated environments and are much easier for platforms to detect.
+Multilogin is **not an Android emulator**. Cloud phones run on real Android hardware (versions 10–16) with genuine device identifiers. Android emulators run in simulated environments and are much easier for platforms to detect.
 
 Each cloud phone includes:
 - Unique IMEI, Android ID, and MAC address
@@ -291,7 +291,7 @@ Multilogin cloud phones are **not emulators**. They are real Android environment
 
 ### How to Run Multiple Android Phones From Your Desktop
 
-Every cloud phone in Multilogin is a dedicated Android device (versions 10–15) running in the cloud. You choose the device brand and model, pick the Android version, assign a region, and launch — all from your desktop app.
+Every cloud phone in Multilogin is a dedicated Android device (versions 10–16) running in the cloud. You choose the device brand and model, pick the Android version, assign a region, and launch — all from your desktop app.
 
 You can run as many cloud phones as your plan supports, manage them all from one dashboard, see which are active in real time through the Live Running Profiles view, and control everything without touching a physical device.
 

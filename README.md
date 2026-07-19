@@ -7,9 +7,9 @@
 ![macOS](https://img.shields.io/badge/macOS-supported-000000?logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-supported-FCC624?logo=linux&logoColor=black)
 
-> Multilogin is an all-in-one platform for social media managers and creators who run multiple accounts from one dashboard.
+> Multilogin is a cloud phone platform for social media managers and creators who run multiple social profiles from one dashboard.
 
-Multilogin is an all-in-one platform for social media managers and creators who need to run multiple accounts from one dashboard — on mobile apps and in the browser.
+Multilogin is a cloud phone platform for social media managers and creators. You run multiple social profiles from one dashboard, on mobile apps and in the browser.
 Each mobile account runs in its own Android cloud phone. Each web account runs in its own browser profile. Upload content, automate posts and engagements, and manage everything from one place. No physical devices. No separate tools. No complicated setup.
 
 Whether you manage five accounts or five hundred, Multilogin keeps it all simple, organized, and easy to scale.
@@ -45,7 +45,7 @@ Multilogin gives you **real Android cloud phones** for mobile app accounts and *
 
 | What you need | How Multilogin handles it |
 |---|---|
-| Manage Instagram, TikTok, Facebook, YouTube, Reddit, X, LinkedIn, Pinterest, Telegram, OnlyFans, Snapchat, Threads and other mobile apps | Each account runs in its own Android cloud phone |
+| Manage TikTok, Instagram, Facebook, Reddit, and YouTube, plus other social and mobile apps | Each account runs in its own Android cloud phone |
 | Manage web-based accounts and ad dashboards | Each account runs in its own isolated browser profile |
 | Keep accounts from being linked to each other | Real hardware IDs, unique fingerprints, matched geolocation per profile |
 | Run Facebook and Google ad accounts without bans | Each profile has its own isolated session, cookies, and IP so platforms see separate advertisers |
@@ -91,7 +91,7 @@ Browser profiles are ideal for web-based multi-accounting because:
 - **150+ countries to choose from** — pick any country or region for each profile. Each profile gets its own IP matched to its location, so every account looks like a real local user.
 - **Full isolation between profiles** — cookies, cache, login sessions, and local storage never leak between profiles. One account cannot affect another.
 - **Unique fingerprint per profile** — each profile gets its own browser fingerprint, making it appear as a completely different device to any platform.
-- **Chromium-based with two built-in browsers** — Mimic (Chrome-based) and Stealthfox (Firefox-based), both hardened against fingerprint detection.
+- **Chromium-based browser profiles** — hardened against fingerprint detection.
 - **Quick cloning and bulk operations** — duplicate profiles in seconds or run bulk actions across hundreds of profiles at once.
 - **Cloud or local storage** — save profile data in the cloud and access it from any device, or keep it local for full control.
 - **Automation-ready** — every browser profile works with Selenium, Puppeteer, Playwright, and Postman out of the box.
@@ -269,7 +269,7 @@ Multilogin gives each Facebook account its own cloud phone (for the app) or its 
 
 A browser fingerprint is a combination of data points — screen resolution, fonts, time zone, language settings, browser version, and dozens more — that platforms use to identify your device. Sharing fingerprints across accounts is one of the most common reasons accounts get linked.
 
-Multilogin's browser profiles each carry a unique Chromium-based fingerprint built from 50+ parameters. Every profile looks like a completely different device to any website or platform. And for mobile accounts, cloud phones use genuine Android hardware identifiers — real parameters, not spoofed ones.
+Multilogin's browser profiles each carry a unique Chromium-based fingerprint. Every profile looks like a completely different device to any website or platform. And for mobile accounts, cloud phones use genuine Android hardware identifiers, real device parameters.
 
 ---
 
@@ -327,7 +327,7 @@ Whether you manage 5 accounts or 500, the dashboard stays clean and organized.
 
 Phone farming — earning rewards by running apps across multiple devices — gets expensive fast when you buy physical hardware. Each phone needs its own SIM, charger, and space on your desk.
 
-Multilogin cloud phones eliminate the hardware cost entirely. Each cloud phone is billed at **$0.011 per minute**. You start the timer when you launch the device and stop it when you are done. Minutes work as credits, and larger minute packages come with bigger discounts. Unused minutes roll over with an active subscription.
+Multilogin cloud phones eliminate the hardware cost entirely. Cloud phone minutes are billed from **$0.0073 to $0.009** per minute depending on package size.. You start the timer when you launch the device and stop it when you are done. Minutes work as credits, and larger minute packages come with bigger discounts. Unused minutes roll over with an active subscription.
 
 [Phone Farming Use Case](https://multilogin.com/mobile/phone-farming/)
 
@@ -379,7 +379,7 @@ Every Multilogin plan includes full access to both browser profiles and Android 
 | Proxy Traffic | $3.5 per 1 GB | Premium residential proxies. Unused traffic rolls over. |
 | Mobile Minutes | $0.0073 per minute | Pay only for time used. Unused minutes roll over. |
  
-> Cloud phones are billed separately at **$0.0073 per minute**. The timer starts when you launch the device and stops when you press Stop.
+> You pay from $0.0073 to $0.009 per minute for cloud phones, depending on package size. The timer starts when you launch the device and stops when you press Stop.
  
 ### Pro Plans
  
@@ -444,14 +444,12 @@ The Free plan has no monthly or annual option: it's free with no time limit, so 
 | Team seats | Basic controls | Granular permission controls, unlimited seats on Business plans |
 | Automation | Limited | Full API, Selenium, Puppeteer, Playwright, Postman |
 | Cost model | Cloud phones + separate tools | One subscription covers cloud phones and browser profiles |
-| Support | Standard hours | 24/7 in 5 languages |
-| Account warm-up | Manual or not supported | Cookie Robot for browser profiles + persistent app sessions for cloud phones |
+| Account warm-up | Manual or not supported | Persistent sessions for browser profiles and cloud phones support natural warm-up |
 | Profile storage | Local only on most plans | Cloud and local storage on all plans |
 | Data security | Servers outside Europe on some tools | GDPR compliant, 2FA, choice of local or cloud storage |
-| Market presence | Newer entrants | 9+ years in the market, referenced as the most established solution |
+| Market presence | Newer entrants | 10+ years in the market, operating since 2015 |
 | Detection rate | Higher on cheaper tools | Passes fingerprint checks on mobile and web platforms |
 | macOS and Linux support | Windows only on some tools | Desktop app available for Windows, macOS, and Linux |
-| AI Quick Actions | Not available | Automate actions inside browser profiles using text prompts |
 
 ---
 
@@ -478,7 +476,7 @@ Android emulators run in simulated environments and do not offer real device-lev
 <details>
 <summary><strong>How are cloud phones billed?</strong></summary>
 
-Cloud phones are billed at **$0.0073 per minute**. Minutes work as credits — the timer starts when you launch the device and stops when you press Stop. Larger minute packages come with bigger discounts. Unused minutes roll over with an active subscription.
+Cloud phone minutes cost from $0.0073 to $0.009 per minute, depending on package size. Minutes work as credits. You start the timer when you launch the device and stop it when you press Stop. Larger packages give you bigger discounts. Unused minutes roll over with an active subscription.
 
 </details>
 
@@ -487,7 +485,7 @@ Cloud phones are billed at **$0.0073 per minute**. Minutes work as credits — t
 
 Multilogin offers a Trial, three Pro plans, and Business plans:
 
-- **Trial:** $2 for 3 days: 5 profiles, 200 MB proxy traffic, 60 mobile minutes
+- **Free:** $0, no time limit: up to 5 profiles (max 1 mobile), 200 MB proxy traffic (one-time), 30 mobile minutes (one-time)
 - **Pro 10:** from $7.08/mo: 10 profiles, 1 GB proxy traffic, 60 mobile minutes
 - **Pro 50:** from $19.17/mo: 50 profiles, 3 GB proxy traffic, 75 mobile minutes
 - **Pro 100:** from $26.67/mo: 100 profiles, 5 GB proxy traffic, 150 mobile minutes
@@ -505,16 +503,15 @@ Multilogin starts at $7.08 per month when billed annually. This includes 1 GB of
 </details>
 
 <details>
-<summary><strong>Does Multilogin offer a trial?</strong></summary>
-
-Yes. A 3-day trial is available for $2. It includes 5 browser or mobile profiles, 200 MB of residential proxy traffic, and 60 mobile minutes.
+<summary><strong>Does Multilogin offer a free plan?</strong></summary>
+Yes. Multilogin offers a Free plan with no time limit and no credit card required. It includes up to 5 profiles (max 1 mobile), 200 MB of proxy traffic, and 30 mobile minutes as one-time allocations.
 
 </details>
 
 <details>
 <summary><strong>Which Android versions are available?</strong></summary>
 
-Multilogin currently supports **Android 10, 11, 12, 13, 14, and 15**. Each version offers different performance levels and app compatibility, so you can pick the one that fits your workflow.
+Multilogin currently supports **Android 10, 11, 12, 13, 14, 15 and 16**. Each version offers different performance levels and app compatibility, so you can pick the one that fits your workflow.
 
 </details>
 
@@ -550,14 +547,14 @@ Multilogin runs real Android cloud phones with genuine hardware identifiers (IME
 <details>
 <summary><strong>Is Multilogin safe to use?</strong></summary>
 
-Yes. Each browser profile runs in an isolated environment with unique fingerprints, preventing account linkage. Data can be stored locally or in the cloud. Multilogin is fully GDPR compliant, supports two-factor authentication (2FA), and allows controlled team access with granular permissions.
+Yes. Each browser profile runs in an isolated environment with unique fingerprints, preventing account linkage. You can store your data locally or in the cloud. Multilogin is fully GDPR compliant, supports two-factor authentication (2FA), and allows controlled team access with granular permissions.
 
 </details>
 
 <details>
 <summary><strong>Can I automate workflows with Multilogin?</strong></summary>
 
-Yes. Multilogin supports full integration with Selenium, Puppeteer, Playwright, and Postman. The Multilogin API lets you automate cloud phone creation, app installation, and account management. Automation token access is available from the Pro 10 plan and above.
+Yes. Multilogin supports full integration with Selenium, Puppeteer, Playwright, and Postman. The Multilogin API lets you automate cloud phone creation, app installation, and account management. You get automation token access starting from the Pro 10 plan.
 
 </details>
 
@@ -599,7 +596,7 @@ Yes. You earn a lifetime reward of 10 Multipoints for every friend who subscribe
 <details>
 <summary><strong>What are the alternatives to Multilogin Cloud Phones?</strong></summary>
 
-Other cloud phone platforms include GeeLark, DuoPlus, VMOS Cloud, BitCloudPhone, Redfinger, LDCloud, and MoreLogin Cloud.
+Other cloud phone platforms include GeeLark, DuoPlus, VMOS Cloud, and BitCloudPhone.
 
 What sets Multilogin apart: real Android hardware with genuine device identifiers (IMEI, Android ID, MAC), combined with a leading multi-account browser in one unified dashboard. Most alternatives focus only on mobile or require separate tools for web workflows.
 
@@ -662,6 +659,6 @@ Multilogin works best when you have:
 - 🕐 **A bit of time to get familiar** — if you have never used cloud phones before, give yourself a short adjustment period. The interface is beginner-friendly and does not require technical skills, but like any new tool, there is a short ramp-up.
 - 🗂️ **Some setup time for large workflows** — if you plan to manage hundreds of accounts, a bit of upfront organization pays off. The 24/7 support team in 5 languages is there to help you at any stage.
 
-Ready to try it? Multilogin offers a 3-day trial for $2 — includes 5 profiles, 200 MB of residential proxy traffic, and 60 mobile minutes. No commitment, no surprises.
+Ready to try it? Multilogin offers a Free plan with no time limit. Get up to 5 profiles, 200 MB of proxy traffic, and 30 mobile minutes to start. No commitment, no credit card.
 
 👉 [Start your trial at multilogin.com](https://multilogin.com/pricing/)
